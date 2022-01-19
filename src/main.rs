@@ -11,4 +11,5 @@ fn main() {
   chapters::ch4_1::what_is_ownership();
   chapters::ch4_2::references_and_borrowing();
   chapters::ch4_3::slices();
+  chapters::ch5_1::defining_structs();
 }
