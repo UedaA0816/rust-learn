@@ -9,4 +9,5 @@ fn main() {
   chapters::ch3_4::comments();
   chapters::ch3_5::control_flow();
   chapters::ch4_1::what_is_ownership();
+  chapters::ch4_2::references_and_borrowing();
 }
