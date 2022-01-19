@@ -13,4 +13,5 @@ fn main() {
   chapters::ch4_3::slices();
   chapters::ch5_1::defining_structs();
   chapters::ch5_2::example_structs();
+  chapters::ch5_3::method_syntax();
 }
