@@ -18,4 +18,5 @@ fn main() {
   chapters::ch6_2::match_operator();
   chapters::ch6_3::if_let();
   chapters::ch8_1::vectors();
+  chapters::ch8_2::strings();
 }
