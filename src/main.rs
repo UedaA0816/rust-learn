@@ -16,4 +16,5 @@ fn main() {
   chapters::ch5_3::method_syntax();
   chapters::ch6_1::defining_an_enum();
   chapters::ch6_2::match_operator();
+  chapters::ch6_3::if_let();
 }
