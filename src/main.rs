@@ -15,4 +15,5 @@ fn main() {
   chapters::ch5_2::example_structs();
   chapters::ch5_3::method_syntax();
   chapters::ch6_1::defining_an_enum();
+  chapters::ch6_2::match_operator();
 }
