@@ -21,4 +21,5 @@ fn main() {
   chapters::ch8_2::strings();
   chapters::ch8_3::hash_maps();
   chapters::ch9_1::unrecoverable_errors_with_panic();
+  chapters::ch9_2::recoverable_errors_with_result();
 }
