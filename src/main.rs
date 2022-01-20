@@ -20,4 +20,5 @@ fn main() {
   chapters::ch8_1::vectors();
   chapters::ch8_2::strings();
   chapters::ch8_3::hash_maps();
+  chapters::ch9_1::unrecoverable_errors_with_panic();
 }
