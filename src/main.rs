@@ -19,4 +19,5 @@ fn main() {
   chapters::ch6_3::if_let();
   chapters::ch8_1::vectors();
   chapters::ch8_2::strings();
+  chapters::ch8_3::hash_maps();
 }
