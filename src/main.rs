@@ -23,4 +23,5 @@ fn main() {
   chapters::ch9_1::unrecoverable_errors_with_panic();
   chapters::ch9_2::recoverable_errors_with_result();
   chapters::ch10_1::syntax();
+  chapters::ch10_2::traits();
 }
